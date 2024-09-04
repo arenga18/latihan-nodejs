@@ -12,5 +12,5 @@ readableStream.on("readable", () => {
 });
 
 readableStream.on("end", () => {
-  console.log("Done");
+  console.log("done");
 });
